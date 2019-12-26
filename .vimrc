@@ -2,9 +2,11 @@
 set clipboard=unnamed
 set mouse=a
 set path+=**
-command! MakeTags !ctags -R .
+command! MakeTags !ctags -R *
+set tags=./tags;
 set wildmenu
 set cursorline
+hi cursorLine cterm=bold ctermbg=DarkGray
 " Enable folding
 set foldcolumn=3
 "set foldmethod=indent
