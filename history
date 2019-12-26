@@ -1,0 +1,896 @@
+    1  pip install kaggle --upgrade
+    2  sudo apt install python-pip
+    3  pip install kaggle --upgrade
+    4  pip install --upgrade pip
+    5  mkdir -p ~/.kaggle/
+    6  mv kaggle.json ~/.kaggle/
+    7  ls
+    8  pwd
+    9  cs notebooks/
+   10  cd notebooks/
+   11  ls
+   12  cd..
+   13  cd ..
+   14  ls
+   15  pip install kaggle --upgrade
+   16  pip uninstall pip 
+   17  sudo pip uninstall pip 
+   18  pip install --upgrade pip==9.0.3
+   19  kaggle
+   20  pip
+   21  pip install --upgrade pip==9.0.3
+   22  pip
+   23  ls
+   24  python -m pip uninstall pip
+   25  pip
+   26  sudo pip uninstall pip 
+   27  pip uninstall pip 
+   28  pip install --upgrade pip==9.0.3
+   29  pip install kaggle --upgrade
+   30  ls
+   31  kaggle
+   32  pip install kaggle --upgrade
+   33  kaggle
+   34  ls -a
+   35  ls -a ./.fastai
+   36  cd .fastai/
+   37  ls-a
+   38  ls -a
+   39  cd data
+   40  ls
+   41  cd ..
+   42  ls -a
+   43  cd models/
+   44  ls -a
+   45  cd .
+   46  pwd
+   47  .
+   48  cd ../../
+   49  pwd
+   50  cd ..
+   51  ls -a
+   52  cd ..
+   53  pwd
+   54  ls
+   55  cd anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+   56  ls -a
+   57  ls *.py
+   58  vim collab.py 
+   59  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py
+   60  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+   61  vim collab.py 
+   62  vim -r collab.py 
+   63  vim collab.py 
+   64  cd .
+   65  cd
+   66  pwd
+   67  ls -a
+   68  vim
+   69  vim .viminfo 
+   70  find . -name "python.vim"
+   71  find . -name "collab.py"
+   72  find . -name collab.py
+   73  find . -name 'collab.py'
+   74  find . -type f | grep -i \.*.py
+   75  find . -type f | grep -i \.collab.py
+   76  find . -type f | grep -i \collab.py
+   77  find . -type f | grep -i \*.py
+   78  find . -type f | grep -i \.*.py
+   79  ls
+   80  ls -a
+   81  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/
+   82  pwd
+   83  ls
+   84  vim collab.py 
+   85  cd
+   86  ls -a
+   87  cd .fastai
+   88  ls -a
+   89  find . -name 'config.yml'
+   90  cd
+   91  find . -name 'config.yml'
+   92  find . -name 'collab.py'
+   93  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+   94  ls -a
+   95  cd
+   96  find . -name 'datasets.py'
+   97  find . -name *.py
+   98  find . -name datasets.py
+   99  find . -name index.py
+  100  find . -name datasets.py
+  101  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  102  ls -a
+  103  find . -name ditributed.py
+  104  cd ~
+  105  ls -a
+  106  find -name .vimrc
+  107  find -name .profile
+  108  hg clone https://vim.googlecode.com/hg/ vim
+  109  sudo apt install mercurial
+  110  sudo dpkg --configure -a
+  111  hg --help
+  112  hg help
+  113  sudo apt-get build-dep vim
+  114  hg clone https://vim.googlecode.com/hg/ vim
+  115  sudo apt-get install vim
+  116  apt-get -f install
+  117  sudo apt-get -f install
+  118  sudo apt-get install vim
+  119  ls -a
+  120  find -name vimrc
+  121  find -name .vimrc
+  122  find -name .vim*
+  123  cd ..
+  124  pwd
+  125  ls -a
+  126  cd aistudent/
+  127  ls
+  128  cd ..
+  129  ls -a
+  130  pwd
+  131  find -name .vim*
+  132  find -name .vimrc
+  133  ls -a
+  134  cd
+  135  brew install vim
+  136  sudo apt install linuxbrew-wrapper
+  137  brew install vim
+  138  brew install git
+  139  git clone https://github.com/amix/vimrc.git ~/.vim_runtime
+  140  sh ~/.vim_runtime/install_awesome_vimrc.sh
+  141  cd ~/.vim_runtime && git pull --rebase && cd -
+  142  git clone https://github.com/square/maximum-awesome.git
+  143  cd maximum-awesome
+  144  rake
+  145  ls -a
+  146  cd ..
+  147  ls -a
+  148  vim .vimrc 
+  149  ls -a
+  150  vim .vimrc 
+  151  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py
+  152  vim .vimrc 
+  153  pip install powerline-status
+  154  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py
+  155  vim .vimrc 
+  156  clear
+  157  vim .vimrc 
+  158  mkdir ~/vim/bundle
+  159  ~
+  160  mkdir ~/.vim/bundle
+  161  ls -a
+  162  mkdir ~/.vim_runtime/bundle
+  163  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim_runtime/bundle/Vundle.vim
+  164  vim .vimrc 
+  165  clear
+  166  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py
+  167  vim --version | grep +python
+  168  vim .vimrc 
+  169  clear
+  170  vim .vimrc 
+  171  pip install powerline-status
+  172  vim .vimrc 
+  173  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py
+  174  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py 
+  175  vim .vimrc 
+  176  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim_runtime/bundle/Vundle.vim/[A
+  177  vim .vimrc 
+  178  vim +PluginInstall +qall
+  179  vim .vimrc 
+  180  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py 
+  181  vim .vimrc 
+  182  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/launch.py 
+  183  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py 
+  184  vim .vimrc
+  185  vim ./.vimrc 
+  186  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py
+  187  vim ./.vimrc 
+  188  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py
+  189  vim ./.vimrc 
+  190  ls -a
+  191  cd .vim/
+  192  ls -a
+  193  cd bundle
+  194  ls -a
+  195  cd SimpylFold/
+  196  ls
+  197  which vim
+  198  vim -version
+  199  ls -a /usr/bin/
+  200  cd ..
+  201  ls -a
+  202  ls -a /usr/bin/
+  203  cd
+  204  vim ./.vimrc 
+  205  ls -a
+  206  ls -a ./.vim/bundle/
+  207  vim ./.vimrc 
+  208  ls -a ./.vim/bundle/
+  209  sudo apt install build-essential cmake python3-dev
+  210  cd ./.vim/bundle/YouCompleteMe/
+  211  ls -a
+  212  python3 install.py
+  213  cd
+  214  vim ./.vimrc 
+  215  ls -a .vim
+  216  ls -a 
+  217  ls -a ./.vim_runtime/ 
+  218  ls -a ./.vim/ 
+  219  ls -a ./.vim/bundle/
+  220  ls -a ./.vim_runtime/bundle/
+  221  vim ./.vimrc 
+  222  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/distributed.py
+  223  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  224  rm /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/.collab.py.swp 
+  225  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  226  pwd
+  227  cd ./.vim/
+  228  ls -a
+  229  cd bundle/
+  230  ls -a
+  231  cd Zenburn/
+  232  ls -a
+  233  cd colors/
+  234  ls -a
+  235  cd
+  236  pip3 install pynvim --upgrade
+  237  sudo apt install python3-pip
+  238  pip3 install pynvim --upgrade
+  239  vim ./.vimrc 
+  240  nvim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  241  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  242  cd
+  243  nvim
+  244  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  245  cd
+  246  vim ./.vimrc 
+  247  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  248  vim ./.vimrc 
+  249  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  250  vim ./.vimrc 
+  251  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  252  vim ./.vimrc 
+  253  ls -a /usr/local/lib/python3.5/dist-packages/
+  254  apt-get install python-pip
+  255  sudo apt-get install python-pip
+  256  sudo apt-get install git
+  257  pip install git+git://github.com/Lokaltog/powerline
+  258  sudo pip install git+git://github.com/Lokaltog/powerline
+  259  wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
+  260  wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
+  261  mv PowerlineSymbols.otf /usr/share/fonts/
+  262  sudo mv PowerlineSymbols.otf /usr/share/fonts/
+  263  sudo fc-cache -vf /usr/share/fonts/
+  264  sudo mv 10-powerline-symbols.conf /etc/fonts/conf.d/
+  265  vim ./.vimrc 
+  266  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/launch.py 
+  267  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  268  sh ~/.vim_runtime/install_basic_vimrc.sh
+  269  vim ./.vimrc 
+  270  sh ~/.vim_runtime/install_awesome_vimrc.sh
+  271  vim ./.vimrc 
+  272  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  273  vim ./.vimrc 
+  274  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  275  vim ./.vimrc 
+  276  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  277  vim ./.vimrc 
+  278  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  279  vim ./.vimrc 
+  280  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  281  vim ./.vimrc 
+  282  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  283  vim ./.vimrc 
+  284  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  285  vim ./.vimrc 
+  286  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  287  vim ./.vimrc 
+  288  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  289  vim ./.vimrc 
+  290  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  291  vim ./.vimrc 
+  292  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  293  vim ./.vimrc 
+  294  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  295  vim ./.vimrc 
+  296  vim ./.vimrc 
+  297  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  298  cd /cse451/user/project1/linux-2.6.13.2/
+  299  cd ~
+  300  cd..
+  301  cd ..
+  302  ls -a
+  303  cd
+  304  ls
+  305  ls -a
+  306  clear
+  307  cd
+  308  ls -a
+  309  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  310  cd ..
+  311  ls -a
+  312  cd ..
+  313  ls -
+  314  ls -a
+  315  cd ./data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/
+  316  ls -a
+  317  ctags -R *
+  318  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  319  vim ./.vimrc 
+  320  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  321  vim ./.vimrc 
+  322  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  323  vim ./.vimrc 
+  324  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  325  vim ./.vimrc 
+  326  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  327  vim ./.vimrc 
+  328  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  329  vim ./.vimrc 
+  330  find -name *tag*
+  331  vim ./.vimrc 
+  332  ls -a
+  333  ctags -R .
+  334  ls -a
+  335  ctags -R *
+  336  vim tags 
+  337  rm tags
+  338  ctags -R .
+  339  vim tags 
+  340  cd
+  341  ctags -R .
+  342  ctags -R *
+  343  ls
+  344  vim tags 
+  345  sudo ctags -R *
+  346  vim tags 
+  347  sudo ctags -R ./*
+  348  vim tags 
+  349  sudo ctags -R .
+  350  vim tags 
+  351  less tags 
+  352  vim tags 
+  353  find -R "tags"
+  354  find -name "tags"
+  355  clear
+  356  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/collab.py 
+  357  vim ./.vimrc 
+  358  cd
+  359  ls -a
+  360  ls ./.fastai/data
+  361  ls
+  362  la -a
+  363  cd ./.fastai/data/mnist_sample
+  364  ls -a
+  365  cd ..
+  366  ls -a
+  367  ls -a ./mnist_sample
+  368  cd  ~/notebooks/fastai/course-v3/
+  369  git pull
+  370  git status
+  371  git stash
+  372  git status
+  373  git pull
+  374  ls -a
+  375  cd
+  376  ls -a
+  377  cd ./.fastai/data/
+  378  ls -a
+  379  ls -r
+  380  ls -lr
+  381  pwd
+  382  cd
+  383  ls -a
+  384  cd ..
+  385  ls -a
+  386  cd aistudent/
+  387  ls -a
+  388  ls 
+  389  cd notebooks/
+  390  ls
+  391  cp fastai/course-v3/nbs/dl1/data/mnist.pkl.gz ./../.fastai/data/.
+  392  cd ./../.fastai/data/
+  393  ls -a
+  394  mkdir mnist
+  395  mv mnist.pkl.gz ./mnist/.
+  396  ls-a
+  397  ls -a
+  398  cd mnist
+  399  ls -a
+  400  mv ./../aistudent/notebooks/fastai/course-v3/nbs/dl1/data/rossmann.tgz ./.fastai/data/.
+  401  mkdir ./.fastai/data/rossmann
+  402  cd ./.fastai/data/rossmann
+  403  mv ./../rossmann.tgz .
+  404  ls
+  405  tar -xvzf rossmann.tgz 
+  406  ls
+  407  pip install isoweek
+  408  sudo pip install isoweek
+  409  sudo -H pip install isoweek
+  410  ls
+  411  cd
+  412  cd..
+  413  cd ..
+  414  ls
+  415  cd ..
+  416  ls
+  417  cd ..
+  418  ls
+  419  grep python
+  420  pwd
+  421  ls
+  422  find -name python*
+  423  find -name python
+  424  clear
+  425  pwd
+  426  ls
+  427  sudo -H pip3.5 install isoweek
+  428  sudo -H pip3.6 install isoweek
+  429  sudo -H pip install isoweek
+  430  sudo -H pip-3.5 install isoweek
+  431  sudo -H pip-3.6 install isoweek
+  432  python-3.6 -m pip install isoweek
+  433  python-3.5 -m pip install isoweek
+  434  python3.5 -m pip install isoweek
+  435  python3.6 -m pip install isoweek
+  436  python2.7 -m pip install isoweek
+  437  ls
+  438  ls -a usr/local/lib/python3.5/dist-packages/
+  439  ls -a usr/local/lib/python2.7/dist-packages/
+  440  find -name fastai.py
+  441  find -name "fastai.py"
+  442  find -name "fastai.pyc"
+  443  pwd
+  444  ls
+  445  cd home
+  446  home
+  447  ls
+  448  find . -name "fastai.pyc"
+  449  find . -name fastai
+  450  find . -name fastai.py
+  451  find . -name fastai.pyc
+  452  find . -name fastai*
+  453  cd ..
+  454  find . -name fastai*
+  455  sudo find . -name fastai*
+  456  ls
+  457  sudo find ./anaconda -name fastai*
+  458  sudo find ./bin -name fastai*
+  459  sudo find ./hom -name fastai*
+  460  sudo find ./home -name fastai*
+  461  sudo find ./lib -name fastai*
+  462  sudo find ./usr -name fastai*
+  463  sudo find ./usr -name torch*
+  464  cd
+  465  ls
+  466  cd notebooks/
+  467  ls
+  468  cd fastai/
+  469  ls
+  470  cd
+  471  ls
+  472  cd ..
+  473  ls
+  474  cd ..
+  475  ls
+  476  sudo find ./usr -name fastai*
+  477  vim ./usr/local/share/jupyter//kernels/fastai/kernel.json 
+  478  ls
+  479  vim ./usr/local/share/jupyter//kernels/fastai/kernel.json 
+  480  ls data/anaconda/envs/fastai/bin/
+  481  ls data/anaconda/envs/fastai
+  482  ls data/anaconda/envs
+  483  sudo -H data/anaconda/envs/fastai/bin/python -m pip install isoweek
+  484  pwd
+  485  ls
+  486  cd home/aistudent/.fastai/data/rossmann
+  487  ls
+  488  pwd
+  489  ls
+  490  ls -a
+  491  vi .vimrc 
+  492  git clone https://github.com/nitinverma78/vim.git
+  493  ls -a
+  494  ls -l
+  495  cd vim
+  496  ls -a
+  497  cp ./../.vimrc .
+  498  ls -a
+  499  git add .
+  500  git commit -m "Add existing file"
+  501  git push origin 
+  502  git push origin https://github.com/nitinverma78/vim
+  503  git push origin master
+  504  cd ..
+  505  ls -a
+  506  vi .vimrc 
+  507  ls
+  508  ls -a
+  509  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/data_block.py
+  510  vi .vimrc 
+  511  tree
+  512  sudo apt install tree
+  513  tree
+  514  tree help
+  515  help tree
+  516  man -k tree
+  517  tree -2
+  518  tree
+  519  find -name */py
+  520  find -name *.py
+  521  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/data_block.py
+  522  vi .vimrc 
+  523  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/data_block.py
+  524  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/tabular/models.py 
+  525  vi .vimrc 
+  526  pwd
+  527  ls
+  528  ctags -R
+  529  ctags -R .
+  530  cd ..
+  531  ls
+  532  cd ..
+  533  ls
+  534  cd ..
+  535  ls
+  536  ctags -R .
+  537  ls
+  538  ls -a
+  539  sudo ctags -R .
+  540  ls
+  541  vim tags 
+  542  cd
+  543  ls
+  544  vim tags 
+  545  sudo ctags -R .
+  546  vim tags 
+  547  rm tags 
+  548  sudo ctags -R .
+  549  sudo ctags -R
+  550  sudo ctags -R ./.
+  551  ls
+  552  vim tags 
+  553  type tags
+  554  sudo ctags -R .
+  555  type tags
+  556  ls -a
+  557  ls
+  558  vim tags 
+  559  type tags
+  560  pwd
+  561  brew install ctags
+  562  sudo brew install ctags
+  563  brew install ctags
+  564  ls
+  565  less tags
+  566  rm tags
+  567  ls
+  568  ctags -R .
+  569  ls
+  570  less tags
+  571  rm tags
+  572  ls
+  573  pwd
+  574  cd notebooks/fastai/
+  575  ls
+  576  cd course-v3/
+  577  ls
+  578  cd
+  579  cd ../../../..
+  580  ls
+  581  less tags 
+  582  rm tags
+  583  sudo rm tags
+  584  ls
+  585  ctags - R .
+  586  ls
+  587  cd /data/anaconda/envs/fastai
+  588  ls
+  589  ctags - R .
+  590  ls
+  591  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  592  ls
+  593  ctags - R .
+  594  sudo ctags - R .
+  595  ls
+  596  less tags 
+  597  ls -l
+  598  mv tags tagsx
+  599  ls
+  600  sudo ctags - R .
+  601  ls
+  602  mv tagsx tags
+  603  ls
+  604  sudo ctags - R .
+  605  brew install ctags
+  606  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/data_block.py
+  607  find  -name tags
+  608  ctags -R *
+  609  find  -name tags
+  610  ctags -R *
+  611  vim ./.vimrc 
+  612  ctags -R *
+  613  vim ./.vimrc 
+  614  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/data_block.py
+  615  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  616  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/train.py 
+  617  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai 
+  618  ls
+  619  vim basics.py 
+  620  ls -
+  621  ls -l
+  622  vim basic_train.py 
+  623  ls
+  624  ls -a
+  625  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai 
+  626  vim basic_train.py 
+  627  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai 
+  628  ls
+  629  vim ./tabular/data.py 
+  630  vim tags 
+  631  cd tabular/
+  632  ls
+  633  ctags -R *
+  634  ls
+  635  vim tags 
+  636  vim ./tabular/data.py 
+  637  ls
+  638  vim ./data.py 
+  639  cd ..
+  640  ls
+  641  cd fastai
+  642  ls
+  643  ctags -R *
+  644  find -R -name tags
+  645  find -name tags
+  646  ls -l
+  647  vim ./tabular/data.py 
+  648  vim ./
+  649  cd ..
+  650  ls
+  651  cd ..
+  652  ls
+  653  cd /data/anaconda/envs/fastai/lib/python3.6/site-package
+  654  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/
+  655  ls
+  656  find -R -name tags
+  657  find -name tags
+  658  ctags -R *
+  659  find -name tags
+  660  vim fastai/tabular/data.py 
+  661  vi /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  662  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  663  vim /home/aistudent/.fastai/data/oxford-iiit-pet/images/
+  664  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/image.py
+  665  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/image.pyv
+  666  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/image.py
+  667  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  668  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision
+  669  ls
+  670  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision
+  671  ls
+  672  ctags -R *
+  673  ls -l
+  674  ctags -R .
+  675  ls -l
+  676  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision
+  677  ls
+  678  cd ..
+  679  ls
+  680  ctagss -R *
+  681  ctags -R *
+  682  ls
+  683  cd vision/
+  684  ls
+  685  cd ..
+  686  ls
+  687  ctags -R .
+  688  cd vision/
+  689  ls
+  690  ctags -R .
+  691  ls
+  692  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  693  ls
+  694  vim tags
+  695  ls -l
+  696  rm tags
+  697  ctags -R *
+  698  ls -l
+  699  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  700  cd
+  701  vim .vimrc 
+  702  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  703  vim .vimrc 
+  704  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  705  cd
+  706  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  707  ls
+  708  ctags -R .
+  709  ls -l
+  710  ctags -R *
+  711  ls -l
+  712  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  713  vim .vimrc 
+  714  cd
+  715  vim .vimrc 
+  716  vim .
+  717  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  718  grep -R pct_start --include=*.py
+  719  grep -R OneCycleScheduler --include=*.py
+  720  cd callbacks
+  721  ls
+  722  cd ..
+  723  ls
+  724  ctags - R *
+  725  ctags -R *
+  726  cd callbacks
+  727  ls
+  728  cd ..
+  729  ctags -R .
+  730  cd callbacks
+  731  ls
+  732  ctags -R .
+  733  ls
+  734  vim .
+  735  cd
+  736  vim ./.vimrc 
+  737  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  738  ls
+  739  ctags -R *.py
+  740  grep -R tags --include=*.py
+  741  find -name tags
+  742  ls
+  743  ctags -R .py
+  744  vim .
+  745  grep -R unet --include=*.py
+  746  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  747  grep -R unet --include=*.py
+  748  vim .
+  749  cd /home/aistudent/.fastai/data/oxford-iiit-pet/images
+  750  ls
+  751  cd ..
+  752  ls
+  753  cd models
+  754  ls
+  755  ls -a
+  756  cd ..
+  757  ls -a
+  758  cd annotations/
+  759  ls -a
+  760  cd ..
+  761  ls
+  762  grep -R gen-pre2 --include=*.py
+  763  cd
+  764  grep -R gen-pre2 --include=*.py
+  765  grep -R gen-pre2 --include=*
+  766  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  767  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision
+  768  grep -R SequentialEx --include=*.py
+  769  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  770  grep -R SequentialEx --include=*.py
+  771  vim .
+  772  grep -R GANDiscriminatorLR --include=*.py
+  773  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  774  grep -R GANDiscriminatorLR --include=*.py
+  775  grep -R GANDiscriminativeLR --include=*.py
+  776  vim .
+  777  grep -R Callable --include=*.py
+  778  grep -R GANLearner --include=*.py
+  779  clear
+  780  grep -R GANLearner --include=*.py
+  781  vim ./vision/gan.py 
+  782  cd /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai
+  783  vim ./vision/gan.py 
+  784  ~
+  785  ls
+  786  cd ~/notebooks/fastai/course-v3/
+  787  ls
+  788  git pull
+  789  ls
+  790  ~
+  791  cd ~
+  792  ls
+  793  .
+  794  ~
+  795  ls
+  796  pwd
+  797  cd ..
+  798  ls
+  799  ./data/home/aistudent/
+  800  cd ./data/home/aistudent/
+  801  ls
+  802  sudo -i conda install -c fastai fastai -n fastai
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd anaconda
+  807  ls
+  808  cd ..
+  809  ls
+  810  find -r fastai
+  811  find - r fastai
+  812  find . - r fastai
+  813  pwd
+  814  ls
+  815  cd home
+  816  ls
+  817  cd aistudent/
+  818  ls
+  819  cd notebooks/
+  820  ls
+  821  cd fastai/
+  822  ls
+  823  cd course-v3/
+  824  ls
+  825  cd
+  826  ls
+  827  find . -name ".vimrc"
+  828  ls
+  829  ls -l
+  830  ls -al
+  831  vim ./.vimrc 
+  832  vim ./vim/.vimrc 
+  833  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/learner.py
+  834  find . -name "learner.py"
+  835  pwd
+  836  vim
+  837  ls -al ./vim/
+  838  vim ./vim/.vimrc 
+  839  vim ./.vimrc 
+  840  find . -name "fastai"
+  841  ls
+  842  cd ..
+  843  ls
+  844  cd ..
+  845  ls
+  846  cd ..
+  847  ls
+  848  find . -name "fastai"
+  849  find . -name fastai 2>&1 | grep -v "Permission denied"
+  850  grep -R GANLearner --include=*.py
+  851  grep -R SequentialEx --include=*.py
+  852  grep -R GANLearner --include=*.py 2>&1 | grep -v "Permission denied"
+  853  vim /data/anaconda/envs/fastai/lib/python3.6/site-packages/fastai/vision/image.py
+  854  ls
+  855  cd ./data/anaconda/envs/fastai/
+  856  ls
+  857  cd ..
+  858  ls
+  859  cd fastai/lib/python3.6/site-packages/fastai/vision/
+  860  ls
+  861  cd
+  862  cd ../..
+  863  ls
+  864  cd data/envs
+  865  cd data/env
+  866  cd data/anaconda/
+  867  cd ..
+  868  ls
+  869  grep -R GANLearner --include=*.py 2>&1 | grep -v "Permission denied"
+  870  find . -name "learner.py"
+  871  cd
+  872  ls
+  873  git --version
+  874  git config --list
+  875  git help
+  876  git log
+  877  ls
+  878  cd vim
+  879  ls
+  880  ls -lr
+  881  ls -lra
+  882  ls
+  883  history
+  884  history | grep git
+  885  pwd
+  886  cp ../.vimrc ./.vimrc 
+  887  git add .
+  888  git commit -m "Background highlight"
+  889  git push origin
+  890  git pull
+  891  pwd
+  892  cd ..
+  893  ls
+  894  pip install jupyter notebook jupyter_contrib_nbextensions
+  895  history
+  896  history >> ./vim/history
